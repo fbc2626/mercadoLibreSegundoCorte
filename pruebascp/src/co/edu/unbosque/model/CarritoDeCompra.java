@@ -2,7 +2,7 @@ package co.edu.unbosque.model;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//prueba
 public class CarritoDeCompra {
 
     private float valorTotal;
